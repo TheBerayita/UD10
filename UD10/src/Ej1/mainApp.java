@@ -5,6 +5,7 @@ import java.util.*;
 public class mainApp {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
+		//hola
 
 		int numero = (int) (Math.random() * 500);
 		int contador = 0;
